@@ -78,6 +78,9 @@ a:active {
 /*==================================================
                     NAV-BAR
 ====================================================*/
+.rounded-circle:hover{
+    background-color: #4ca3eb;
+}
   #sideNav .navbar-nav .nav-item .nav-link {
       font-weight: 600;
       text-transform: uppercase;
